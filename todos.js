@@ -1,6 +1,6 @@
 const todos = [
   {
-    text: 'Christmas shopping',
+    text: "Christmas shopping",
     complete: false,
     priority: 1,
     id: 0,
@@ -14,30 +14,30 @@ const todos = [
   },
 
   {
-    text: 'binge watch The Office',
+    text: "binge watch The Office",
     complete: false,
     priority: 2,
     id: 2,
   },
 
   {
-    text: 'research dinosaurs',
+    text: "research dinosaurs",
     complete: false,
     priority: 1,
     id: 3,
   },
 
   {
-    text: 'fire Alex',
+    text: "fire Alex",
     complete: true,
     priority: 2,
     id: 4,
   },
 
   {
-    text: 'start novel',
+    text: "start novel",
     complete: true,
     priority: 1,
     id: 5,
   },
-]
+];
