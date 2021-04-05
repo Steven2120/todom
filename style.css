@@ -1,8 +1,14 @@
 body {
   background-color: rgb(14, 17, 23);
   color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .complete {
   text-decoration: line-through;
+}
+
+.todo-input {
+  border-radius: 10px;
+  outline: none;
 }
