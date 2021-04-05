@@ -115,5 +115,3 @@ olList.addEventListener("click", (event) => {
 // 5. Stretch goal: remove all text from the input box. Try adding multiple todos without this first, you'll see why we should do it!
 
 //  Run over to the HTML and add a button for CLEAR TODOS or REMOVE TODOS or some such, giving it a class or id of your choice. Now let's wire up that button, giving it a click event listener that clears all todos from the DOM (we have a function for that!) and removes all todo objects from the todos array as well.
-
-// And you're DONE with the best interface we've written yet for a todos app!
